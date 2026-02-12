@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build outputs
+build/
+dist/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# React Native
+*.hprof
+.cxx/
+
+# Android
+*.keystore
+!debug.keystore
+local.properties
+
+# iOS
+Pods/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Firebase
+firebase-debug.log

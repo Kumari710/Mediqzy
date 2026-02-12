@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "231784710618",
+    "project_id": "mediqzy",
+    "storage_bucket": "mediqzy.firebasestorage.app",
+    "firebase_url": "https://mediczy-624ed-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231784710618:android:f40515124f4a6d6c36c0e3",
+        "android_client_info": {
+          "package_name": "com.mediqzyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYu0KzdS5ctOciWceoMTbEUvhzq7fg9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
