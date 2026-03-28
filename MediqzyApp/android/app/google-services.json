@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982376166047",
+    "firebase_url": "https://mediczy-624ed-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mediczy-624ed",
+    "storage_bucket": "mediczy-624ed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982376166047:android:d065857c287cd93839e8aa",
+        "android_client_info": {
+          "package_name": "com.mediqzyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982376166047-r22m00samll2ffi6tb68oot516mpi5u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVQekZgC3UJnYunj_An0WYGKARYmx10Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982376166047-j975co5qc5enqhcesggbsee3obnj7tqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
